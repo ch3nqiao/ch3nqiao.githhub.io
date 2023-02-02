@@ -1,3 +1,13 @@
-# Headline
+# 陈巧的教育门户
 
-> An awesome project.
+> 这是一个 awesome project.
+
+不是吗？
+
+`是大脸猫建设的`
+
+大脸猫好吗？
+
+- 我觉得好
+- 巧巧也觉得好
+- 哈哈哈
