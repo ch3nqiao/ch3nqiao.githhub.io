@@ -8,12 +8,33 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
+
+<style>
+  :root {
+      --base-background-color: #fff;
+      --base-color           : var(--mono-shade2);
+      --strong-color         : DarkOliveGreen;
+      --blockquote-border-color  : ;
+      --blockquote-border-style  : ;
+      --code-inline-background            : var(--mono-tint2);
+      --code-inline-border-radius         : var(--border-radius-s);
+      --code-inline-color                 : brown;
+      }
+  .markdown-section {
+          max-width: 82% !important;
+      }
+  </style>
+
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: '',
-      repo: ''
+      repo: '',
+      loadSidebar: true,
+      readyTransition : true, // default
+      responsiveTables: true, // default
+      relativePath: false,  // 启用相对路径：false      
     }
   </script>
   <!-- Docsify v4 -->
