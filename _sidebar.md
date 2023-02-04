@@ -1,2 +1,2 @@
-- [理论](teacher.md)
-- [素材](family-education.md)
+- [理论](/teacher.md)
+- [素材](/family-education.md)
