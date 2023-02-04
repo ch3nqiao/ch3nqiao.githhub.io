@@ -5,3 +5,4 @@
 - 家长教育
 
   - [素材](/family-education.md)
+  - [开学须知](newterm.md)
